@@ -1,0 +1,26 @@
+{
+ "area": 0.04000000000000001,
+ "children": null,
+ "duplicate": null,
+ "h": 0.2,
+ "imageID": "1",
+ "index": 0,
+ "label": "Object",
+ "obj": {
+  "ImageID": "1",
+  "LabelName": "Object",
+  "XMax": "0.4",
+  "XMin": "0.2",
+  "YMax": "0.5",
+  "YMin": "0.3"
+ },
+ "overlap": null,
+ "parent": null,
+ "w": 0.2,
+ "x0": 0.2,
+ "x1": 0.4,
+ "xc": 0.3,
+ "y0": 0.3,
+ "y1": 0.5,
+ "yc": 0.4
+}

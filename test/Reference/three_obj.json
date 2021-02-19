@@ -1,0 +1,159 @@
+[
+ {
+  "area": 0.04000000000000001,
+  "children": null,
+  "duplicate": false,
+  "h": 0.2,
+  "imageID": "1",
+  "index": 0,
+  "label": "Object",
+  "obj": {
+   "ImageID": "1",
+   "LabelName": "Object",
+   "XMax": "0.4",
+   "XMin": "0.2",
+   "YMax": "0.5",
+   "YMin": "0.3"
+  },
+  "overlap": {
+   "Group": [
+    {
+     "center_of_other": false,
+     "center_of_self": true,
+     "index": 0,
+     "intersection": 0.04,
+     "iom": 1.0,
+     "iou": 0.25,
+     "other_inside_self": false,
+     "self_inside_other": true
+    }
+   ],
+   "Object": [
+    {
+     "center_of_other": false,
+     "center_of_self": false,
+     "index": 1,
+     "intersection": 0.01,
+     "iom": 0.25,
+     "iou": 0.09091,
+     "other_inside_self": false,
+     "self_inside_other": false
+    }
+   ]
+  },
+  "parent": {
+   "Group": 0
+  },
+  "w": 0.2,
+  "x0": 0.2,
+  "x1": 0.4,
+  "xc": 0.3,
+  "y0": 0.3,
+  "y1": 0.5,
+  "yc": 0.4
+ },
+ {
+  "area": 0.08000000000000002,
+  "children": null,
+  "duplicate": false,
+  "h": 0.4,
+  "imageID": "1",
+  "index": 1,
+  "label": "Object",
+  "obj": {
+   "ImageID": "1",
+   "LabelName": "Object",
+   "XMax": "0.3",
+   "XMin": "0.1",
+   "YMax": "0.8",
+   "YMin": "0.4"
+  },
+  "overlap": {
+   "Group": [
+    {
+     "center_of_other": false,
+     "center_of_self": false,
+     "index": 0,
+     "intersection": 0.02,
+     "iom": 0.25,
+     "iou": 0.09091,
+     "other_inside_self": false,
+     "self_inside_other": false
+    }
+   ],
+   "Object": [
+    {
+     "center_of_other": false,
+     "center_of_self": false,
+     "index": 0,
+     "intersection": 0.01,
+     "iom": 0.25,
+     "iou": 0.09091,
+     "other_inside_self": false,
+     "self_inside_other": false
+    }
+   ]
+  },
+  "parent": {},
+  "w": 0.2,
+  "x0": 0.1,
+  "x1": 0.3,
+  "xc": 0.2,
+  "y0": 0.4,
+  "y1": 0.8,
+  "yc": 0.6
+ },
+ {
+  "area": 0.16000000000000003,
+  "children": {
+   "Object": [
+    0
+   ]
+  },
+  "duplicate": false,
+  "h": 0.4,
+  "imageID": "1",
+  "index": 0,
+  "label": "Group",
+  "obj": {
+   "ImageID": "1",
+   "LabelName": "Group",
+   "XMax": "0.5",
+   "XMin": "0.1",
+   "YMax": "0.5",
+   "YMin": "0.1"
+  },
+  "overlap": {
+   "Object": [
+    {
+     "center_of_other": true,
+     "center_of_self": false,
+     "index": 0,
+     "intersection": 0.04,
+     "iom": 1.0,
+     "iou": 0.25,
+     "other_inside_self": true,
+     "self_inside_other": false
+    },
+    {
+     "center_of_other": false,
+     "center_of_self": false,
+     "index": 1,
+     "intersection": 0.02,
+     "iom": 0.25,
+     "iou": 0.09091,
+     "other_inside_self": false,
+     "self_inside_other": false
+    }
+   ]
+  },
+  "parent": null,
+  "w": 0.4,
+  "x0": 0.1,
+  "x1": 0.5,
+  "xc": 0.3,
+  "y0": 0.1,
+  "y1": 0.5,
+  "yc": 0.3
+ }
+]

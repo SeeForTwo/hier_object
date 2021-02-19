@@ -1,0 +1,7 @@
+*~
+*.pyc
+#*#
+.#*
+_site/
+.hypothesis/
+test/Result/
